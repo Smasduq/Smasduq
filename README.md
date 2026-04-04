@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate developer building projects in **
 ## 🛠️ Skills
 
 **Languages:** Python, JavaScript, Rust, SQL  
-**Frameworks:** FastAPI, Flask, React  
-**Tools & Platforms:** Git, GitHub, Docker, Linux, Firebase, Netlify, Heroku  
+**Frameworks:** FastAPI, React  
+**Tools & Platforms:** Git, GitHub, Docker, Linux, Netlify, Heroku, Supabase, Backblaze, Render
 
 ---
 
