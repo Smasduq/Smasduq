@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer building projects in **
 
 ## 📂 Projects
 
-- [**Smasduq**](https://smasduq.github.io/smasduq/) – Personal website with wallet system & airtime sales  
+- [**Smasduq**](https://smasduq.github.io/smasduq/) – Personal website with games and artist informations 
 - **To-Do API** – FastAPI project with authentication and CRUD functionality  
 
 *(More projects coming soon…)*
