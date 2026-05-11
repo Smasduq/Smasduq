@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer building projects in **
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on my projects: **Smasduq website and To-Do app API**  
+- 🔭 I’m currently working on my projects: **Monteeq and Link-in-bio website**  
 - 🌱 I’m learning **FastAPI, React, and Rust**  
 - 👯 I’m looking to collaborate on **open-source projects and interesting APIs**  
 - 💬 Ask me about **Python, Web Development, and Automation**  
