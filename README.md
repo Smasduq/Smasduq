@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm a passionate developer building projects in **
 
 - [**Smasduq**](https://smasduq.github.io/smasduq/) – Personal website with games and artist informations 
 - **To-Do API** – FastAPI project with authentication and CRUD functionality
-- **Monteeq** - A video edit platform
-- **ani-pull** - Anime downloader CLI built with Python
+- [**Monteeq**](https://monteeq.com) - A video edit platform
+- [**ani-pull**](https://smasduq.github.io/ani-pull) - Anime downloader CLI built with Python
 
 *(More projects coming soon…)*
 
