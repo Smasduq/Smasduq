@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer building projects in **
 - 🌱 I’m learning **FastAPI, React, and Rust**  
 - 👯 I’m looking to collaborate on **open-source projects and interesting APIs**  
 - 💬 Ask me about **Python, Web Development, and Automation**  
-- 📫 How to reach me: **smasduqacc@gmail.com**  
+- 📫 How to reach me: **smasduq@monteeq.com**  
 - ⚡ Fun fact: I enjoy **creating web tools to simplify life**
 
 ---
@@ -25,7 +25,9 @@ Welcome to my GitHub profile! I'm a passionate developer building projects in **
 ## 📂 Projects
 
 - [**Smasduq**](https://smasduq.github.io/smasduq/) – Personal website with games and artist informations 
-- **To-Do API** – FastAPI project with authentication and CRUD functionality  
+- **To-Do API** – FastAPI project with authentication and CRUD functionality
+- **Monteeq** - A video edit platform
+- **ani-pull** - Anime downloader CLI built with Python
 
 *(More projects coming soon…)*
 
@@ -39,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer building projects in **
 
 ## 💬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadiqu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/captain-smasduq)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadiqu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/smasduq)  
 [![Twitter](https://img.shields.io/badge/Twitter-@Smasduq-blue?style=flat-square&logo=twitter)](https://twitter.com/Smasduqq)  
 
 ---
